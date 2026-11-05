@@ -26,8 +26,6 @@ As a staff member is it important to read over this Handbook. Also read through 
 
 <p align="center"><a href="https://melonly.xyz/dashboard?join=UWTVCS"><strong>Melony Request</strong></a> <a href="https://www.roblox.com/share/g/35336550"><strong>Roblox Group</strong></a> <a href="https://docs.google.com/document/d/1txm111oKr7fdBY51YBLqPfCnVOgW_R43ZwmydI60Pfw/edit?usp=sharing"><strong>Announcement Guide</strong></a></p>
 
-<figure><img src="https://4024549385-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FiJSgzxTlOu6eYSu5oXUv%2Fuploads%2FF8Yle2bPy9LNnHrOPOzf%2Fnew%20jackson%20logo.png?alt=media&amp;token=30125887-adad-43be-979b-0362ff59700a" alt="" width="188"><figcaption></figcaption></figure>
-
 {% hint style="danger" %}
 **DO NOT** send this document to anybody who isn't staff at Iowa State. Doing so will result in a <mark style="color:red;">**TERMINATION**</mark>
 {% endhint %}
